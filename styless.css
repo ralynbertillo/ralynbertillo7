@@ -1,0 +1,23 @@
+#banner{
+    background-color: black;
+    height: 200px;
+    text-align: center;
+}
+
+h1{
+    margin: 0px;
+    color: hotpink;
+    line-height: 200px;
+}
+
+body{
+    margin: 0px;
+    background-color:wheat;
+    margin: 25px;
+}
+
+.bodyText{
+    color: black;
+    text-align: justify;
+    
+}
